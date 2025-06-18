@@ -7,3 +7,5 @@ pytest
 pytest_mock
 scikit_learn
 lxml
+shapely
+
